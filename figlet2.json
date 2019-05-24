@@ -1,1 +1,1 @@
-﻿{ version: "1.0", url: "https://github.com/lukesampson/figlet/releases/download/go-1.0-win/figlet-go-1.0-win.zip,bin: "figlet.exe" }
+﻿{ version: "1.0", url: "https://github.com/lukesampson/figlet/releases/download/go-1.0-win/figlet-go-1.0-win.zip",bin: "figlet.exe" }
